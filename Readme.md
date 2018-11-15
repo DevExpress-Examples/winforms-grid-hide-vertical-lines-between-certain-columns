@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [ColumnLineHelper.cs](./CS/E3647/ColumnLineHelper.cs) (VB: [ColumnLineHelper.vb](./VB/E3647/ColumnLineHelper.vb))
+* [Form1.cs](./CS/E3647/Form1.cs) (VB: [Form1.vb](./VB/E3647/Form1.vb))
+* [Program.cs](./CS/E3647/Program.cs) (VB: [Program.vb](./VB/E3647/Program.vb))
+<!-- default file list end -->
 # How to hide vertical divider lines between certain columns.
 
 
