@@ -9,7 +9,7 @@
 
 This example demonstrates how to hide vertical grid lines for specific columns by handling the `grid.Paint` event (draw vertical lines with cell background color).
 
-![](https://raw.githubusercontent.com/DevExpress-Examples/how-to-hide-vertical-divider-lines-between-certain-columns-e3647/17.2.3%2B/media/winforms-grid-hide-vertical-lines.png)
+![](media/winforms-grid-hide-vertical-lines.png)
 
 > **Note**
 >
@@ -27,3 +27,4 @@ This example demonstrates how to hide vertical grid lines for specific columns b
 
 (you will be redirected to DevExpress.com to submit your response)
 <!-- feedback end -->
+
